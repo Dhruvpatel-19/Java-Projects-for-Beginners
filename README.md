@@ -20,11 +20,24 @@ This collection is designed for beginners or anyone looking to practice Java cod
 4. Tweak the code and experiment with it to learn!
 
 ## Projects Included:
-- [x] Basic Calculator  
-- [x] Guess the Number Game  
-- [x] Banking Application (basic CRUD operations)  
-- [x] Simple File Reader/Writer  
-- [x] Basic Shapes Area Calculator  
+- [x] Array-Lists
+- [x] Bank-Statement
+- [x] Bubble-Sort
+- [x] Car-Gears
+- [x] Email-Administration-Application
+- [x] Factors
+- [x] Fibonacci-Series
+- [x] File-Creator
+- [x] File-Writer
+- [x] Fizz-Buzz
+- [x] Insertion-Sort
+- [x] Number-Guessing
+- [x] Summation-Of-Arrays
+- [x] Wall-Breaker
+
+
+
+  
 
 And more to come! 🚀
 
